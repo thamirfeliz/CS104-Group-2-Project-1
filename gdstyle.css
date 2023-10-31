@@ -1,0 +1,77 @@
+.header{
+    background-color: white;
+    display:inline-block;
+    margin: auto;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+    font-size:300%;
+}
+.navul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    position: fixed;
+    /* top: 0; */
+    left: 0;
+    width: 100%;
+}
+.nav {
+    float: left;
+}
+.nav a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    background-color: red;
+    text-decoration-color: white;
+    color: white;
+    list-style: none;
+    /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+}
+.nav a:hover{
+    color:crimson;
+    background-color: white;
+}
+.navbar{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: red;
+    text-decoration-color: white;
+    color: white;
+    list-style: none;
+    /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+}
+h2{
+    text-align: left;
+    margin-top: 50px;
+    font-size: 200%;
+}
+.logo{
+    height: 5%;
+    width: 5%;
+}
+.wideul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    /* top: 0; */
+    width: 30%;
+}
+.widebtn a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px 20px;
+    background-color: white;
+    border:2px solid red;
+    color: black;
+    list-style: none;
+    width: 100%;
+}
+.widebtn a:hover{
+    background-color: red;
+    color:white
+}
