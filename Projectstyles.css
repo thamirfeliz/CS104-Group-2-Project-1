@@ -1,0 +1,11 @@
+h2 {
+    color: red;
+}
+table, th, td {
+    border:2px solid black; 
+    border-collapse: collapse;
+    padding:10px
+}
+.img1 {
+   height: 75%; width: 75%;
+}
