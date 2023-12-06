@@ -1,5 +1,6 @@
 h2 {
-    color: red;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 table, th, td {
     border:2px solid black; 
@@ -7,5 +8,22 @@ table, th, td {
     padding:10px
 }
 .img1 {
-   height: 75%; width: 75%;
+   height: 25%; width: 25%;
+}
+h1 {
+    color: red;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 50px;
+}
+.img2 {
+    height: 200px; width: 200px;
+}
+.img3 {
+    height: 200px; width: 200px;
+}
+p {
+    font-size: 18px;
+}
+.img4 {
+    height: 200px; width: 200px;
 }
